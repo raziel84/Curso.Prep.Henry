@@ -1,0 +1,16 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras 
+explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+
+La instrucción for nos permite repetir código la cantidad de veces que necesitemos. Tiene tres caracteristicas, primero se debe declarar
+una variable que nos permitirá controlar la cantidad de repeticiones que queremos hacer. Segundo, una condición que se debe cumplir,
+mientras se cumpla esa condición se realizarán las instrucciones dentro del bucle for. Por último, incrementamos la variable de control.
+Se ejecuta el código dentro del bucle, y luego evaluamos nuevamente la condición.
+
+* `&&`, `||`, `!`
+
+Y, OR y NOT son operadores lógicos. Se utilizan para evaluar condiciones. Tanto Y como OR necesitan dos expresiones para evaluar, mientras
+que NOT solo utiliza una expresión. Y será verdadero sólo cuando ambas expresiones sean verdaderas, en el resto de los casos será falso.
+OR será falso sólo cuando ambas expresiones sean falso, en el resto de los casos será verdadero. NOT invierte el resultado de una expresión,
+es decir si una expresión es verdadera, NOT la transforma en falsa. Si es falsa, NOT la transforma en verdadera.
