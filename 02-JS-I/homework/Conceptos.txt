@@ -1,0 +1,30 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando
+ a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+    
+    Son contenedores de información que vamos creando para poder guardar y recuperar datos a lo largo del programa.
+
+	* Strings
+
+    Es un tipo de datos que puede contener desde un caracter hasta grandes cadenas de texto, números y símbolos.
+
+	* Funciones (argumentos, `return`)
+
+    Una función nos permite reutilizar código que será necesario en más de una ocasión a lo largo del programa. Por ejemplo si nuestro
+    programa va a mostrar por consola la suma de dos números en varias ocasiones, esto lo podemos hacer con una función.
+    A su vez las funciones pueden recibir información (llamado argumentos), siguiendo el ejemplo de la suma, podemos pasarle como 
+    argumentos los números que queremos sumar.
+    Por último, las funciones también pueden devolvernos información. Si por ejemplo en lugar de mostrar en la consola la suma de los 
+    dos números que le pasamos como argumentos, queremos guardar ese resultado en una variable, esto lo logramos incluyendo una instrucción
+    return en la función y le indicamos que debe devolvernos la suma de ambos argumentos.
+
+	* Declaraciones `if`
+
+    Las declaraciones if permite que un programa pueda tomar deciosiones de acuerdo a si se cumple o no una o más condiciones.
+
+
+	* Valores booleanos (`true`, `false`)
+
+    Siempre que evaluamos una condición, se pueden obtener dos resultado que sea true (verdadero) o false (falso)
+
