@@ -1,0 +1,23 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras 
+explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos
+
+    Colección de datos donde cada uno tiene una clave asociada para su posterior acceso.
+
+	* Propiedades
+
+    Cada dato dentro de un objeto se denomina propiedad de ese objeto.
+
+	* Métodos
+
+    Es otra forma de llamar a las funciones. En otros lenguajes se utiliza este término.
+
+	* Bucle `for…in`
+
+    Permite recorrer cada clave de un objeto aún  cuando no conocemos el nombre de las claves.
+
+	* Notación de puntos vs notación de corchetes
+    La notación de puntos es más práctica (y utiliza también en otros lenguajes). Sin embargo, cuando no conoces el nombre de una clave
+    podemos utilizar una variable que recibe ese dato como parametro, pero en ese caso la notación de puntos ya no nos sive porque está
+    siempre necesita saber el nombre de la clave. En cambio si podemos utilizar esa variable que creamos en la notación de corchetes.
