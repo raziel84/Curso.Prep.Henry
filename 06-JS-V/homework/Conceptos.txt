@@ -1,0 +1,12 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras 
+explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `prototype`
+
+En español prototipo contiene todas las características base de un objeto. En términos simples es un plano con los requisitos mínimos
+que cualquier objeto de ese tipo debe cumpli. Por ejemplo el prototipo de un auto puede contener un método que devuelva el estado 
+(encendido, detenido, en marcha, etc)
+
+* _Constructors_ (de Clases)
+
+El constructor de una clase nos permite darle una estructura a todos los objetos que se creen de dicha clase.
