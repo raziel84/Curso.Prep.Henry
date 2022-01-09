@@ -1,0 +1,33 @@
+body{
+    background-color: khaki;
+}
+
+.divTitulo{
+    font-size: 20px;
+    text-align: center;
+}
+
+img{
+    width: 200;
+    height: 200px;
+    float: right;
+}
+
+.divFoto{
+    position: relative;
+}
+
+
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+    text-align: justify;
+}
+

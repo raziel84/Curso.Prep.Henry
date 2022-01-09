@@ -1,0 +1,44 @@
+h1{color: cornflowerblue;}
+
+.textos{text-align: center;}
+
+.textos2{text-align: center;}
+            
+img{width: 400px;}
+
+.divClass{
+    display: flex;
+    justify-content: center;
+}
+            
+/*#thirdDiv{
+            height: 600px;
+            width: 500px;
+            background-color: darkgreen;
+            padding: 50px;
+            border: 5px dashed red;            
+        }*/
+
+.imagenes{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.divContenedor{
+    background-color: darkgreen;
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    border: 5px dashed red; 
+}
+            
+#spanId{
+        font-size: 18px;
+        margin: 50px;
+        }
+.Ejercicio1{
+    background: linear-gradient(to top, rgba(255,255,255,0), rgba(255,255,255,1)),
+     url("https://i.pinimg.com/originals/51/fc/8a/51fc8af9b676d317b10228812e7d2409.jpg");    
+}
+
