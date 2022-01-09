@@ -10,7 +10,8 @@ body{
 img{
     width: 200;
     height: 200px;
-    float: right;
+    float: inline-end;
+    margin: 20px;
 }
 
 .divFoto{
@@ -28,6 +29,7 @@ h2{
 }
 
 p{
+    padding: 20px;
     text-align: justify;
 }
 
